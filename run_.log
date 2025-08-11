@@ -1,0 +1,29 @@
+Running iteration 1/3 ¡­
+[backend_runner] Created image: D:/pythonprograms/BackendRunnerServer/test_output\image_20250811_175501_272068.png
+Running iteration 2/3 ¡­
+[backend_runner] Created image: D:/pythonprograms/BackendRunnerServer/test_output\image_20250811_175506_304900.png
+Running iteration 3/3 ¡­
+[backend_runner] Created image: D:/pythonprograms/BackendRunnerServer/test_output\image_20250811_175511_314021.png
+Created final log file: D:/pythonprograms/BackendRunnerServer/test_output\final_status.log
+Mock Backend Runner Finished.
+
+Traceback (most recent call last):
+  File "C:\Users\shunxuanxi\anaconda3\Scripts\conda-script.py", line 11, in <module>
+    from conda.cli import main
+ModuleNotFoundError: No module named 'conda'
+Traceback (most recent call last):
+  File "C:\Users\shunxuanxi\anaconda3\Scripts\conda-script.py", line 11, in <module>
+    from conda.cli import main
+ModuleNotFoundError: No module named 'conda'
+Traceback (most recent call last):
+  File "C:\Users\shunxuanxi\anaconda3\Scripts\conda-script.py", line 11, in <module>
+    from conda.cli import main
+ModuleNotFoundError: No module named 'conda'
+Running iteration 1/3 â€¦
+[backend_runner] Created image: D:/pythonprograms/BackendRunnerServer/test_output\image_20250811_181336_479142.png
+Running iteration 2/3 â€¦
+[backend_runner] Created image: D:/pythonprograms/BackendRunnerServer/test_output\image_20250811_181341_491775.png
+Running iteration 3/3 â€¦
+[backend_runner] Created image: D:/pythonprograms/BackendRunnerServer/test_output\image_20250811_181346_497324.png
+Created final log file: D:/pythonprograms/BackendRunnerServer/test_output\final_status.log
+Mock Backend Runner Finished.
